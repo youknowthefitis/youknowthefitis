@@ -2,7 +2,7 @@
 - 👀 I’m interested in Astronomy, Music Production and Computer Science
 - 🌱 I’m currently learning Python and music production
 - 💞️ I’m looking to collaborate on new and innovative welfare projects
-- 📫 How to reach me: insta - @youknowthefitis_
+- 📫 How to reach me: LinkedIn - @youknowthefitis
 
 <!---
 youknowthefitis/youknowthefitis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
